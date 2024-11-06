@@ -1,5 +1,6 @@
 # Beekee & ai-for-education.org | APEX Project
-Beekee Learning By Doing projects as part of AI-for-Education.org
+Beekee Learning By Doing projects as part of AI-for-Education.org [learn more](https://ai-for-education.org/lbd-beekee/)
+
 
 ## About the APEX Project
 **Assessing Performance and Educational eXperience with Lightweight AI in Low-Connectivity Settings (APEX)**
