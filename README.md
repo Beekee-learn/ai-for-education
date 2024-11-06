@@ -53,4 +53,4 @@ Explore more
     - [2.3 Memory](/2.Measurements/memory.md)
     - [2.4 Energy and Power](/2.Measurements/energyPower.md)
     - [2.5 Inference time](/2.Measurements/inferenceTime.md)
-- [3. Datasets](3./Dataset)
+- [3. Datasets](/3.Dataset)
