@@ -36,3 +36,6 @@ Lessons Learned
 Explore more
 =======
 - [1. Setup](/1.Setup)
+-- [1. Setup](/1.Setup)
+- [2. Measurements] (/2.Measurements)
+- [3. Datasets] (3./Dataset)
