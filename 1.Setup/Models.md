@@ -1,3 +1,12 @@
+# Introduction
+
+At the initial phase of our project, we identified several frameworks that facilitate the use of Large Language Models (LLM). Here is a non-exhaustive list of these frameworks:
+
+-   **LLama.cpp**: A C++ framework optimized for using LLM on CPUs.
+-   **Ollama**: A framework that uses LLama.cpp to make it simpler to use.
+-   **HuggingFace**: The go-to platform for using LLM. It offers Python frameworks that make it easy to utilize pre-trained models.
+-   **PyTorch**: The benchmark framework for using LLM. It offers pre-trained models and tools to use them.
+  
 # Model Selection
 
 For this project, we have decided to select models designed for text generation. The choice that quickly became evident is the **Llama-2** model, which is an open-source text generation model. This choice is explained by the fact that this model has been widely used for fine-tuning specialized models in a variety of tasks and is therefore very well documented. As a result, by testing the technical performance of this model on the Raspberry Pi, we can get an idea of the performance of more specialized models.
@@ -5,6 +14,26 @@ For this project, we have decided to select models designed for text generation.
 We have therefore selected the Llama-2 model fine-tuned for the chatbot task. This model is a text generation model that has been fine-tuned on a large number of chatbot data and is therefore capable of generating coherent responses to questions posed by a user.
 
 The model exists in three sizes: 7B, 13B, and 70B. Obviously, the 70B model is the most powerful, but it is also the heaviest and cannot be used on the Raspberry Pi. The 13B model is already very powerful, but we chose to test the 7B model, which is lighter and should therefore be easier to run on the Raspberry Pi.
+
+## LLama.cpp
+
+From the beginning of our exploration, LLama.cpp proved to be a promising option among others for our project. Developed in C++, this framework stands out for its flexibility and its ability to offer excellent performance when deploying large-scale language models (LLM). Its comprehensive documentation and the presence of an active community are significant assets. Furthermore, its ease of use allowed us to make efficient progress in our work, although it was not the only framework that caught our interest in this initial phase.
+
+LLama.cpp also offers the performance metrics that interest us for our project, namely model loading time, prompt evaluation time, and text generation time.
+
+## Implementation
+
+Although it's possible to use LLama.cpp via Python interfaces, we opted for a direct approach via the command line to maximize performance. **Bash scripts** were developed to facilitate inference execution and data management.
+
+## Parameters and Configurations
+
+LLama.cpp offers a wide range of configurable parameters. We mainly kept the default settings, with two specific modifications:
+
+**\--mlock**: Activates memory locking of model data, thus preventing it from being swapped to disk and ensuring consistent performance at the cost of higher RAM consumption.
+
+**\--no-mmap**: Disables memory mapping of the model, which normally loads the necessary segments on demand. This option, although it extends the initial loading time, helps to prevent performance drops during inference phases.
+
+We plan to conduct tests without these parameters activated to evaluate their impact on model loading time.
 
 ## Model Quantization
 
