@@ -6,12 +6,11 @@ Establish clear objectives aligned with pilot goals.
 Identify and prioritize challenges specific to data and learning context.
 Develop a structured timeline to coordinate stages and milestones.
 
-Models
-
-Select models tailored to address defined tasks effectively.
-Assess models' suitability based on complexity, interpretability, and alignment with pilot outcomes.
-Evaluate model adaptability to iterate as pilot data evolves.
-Metrics
+- [Models](/1.Setup/Models.md)
+-- Select models tailored to address defined tasks effectively.
+-- Assess models' suitability based on complexity, interpretability, and alignment with pilot outcomes.
+-- Evaluate model adaptability to iterate as pilot data evolves.
+-- Metrics
 
 Set performance indicators critical to measuring feasibility.
 Define benchmark thresholds for each metric to gauge progress.
