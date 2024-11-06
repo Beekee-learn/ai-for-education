@@ -5,4 +5,4 @@ LLama-2 Model quantized at 4 bits
 
 ### Temperature per number of users comparing different thread configurations
 
-!(images/temp_img1.png)
+!((https://github.com/Beekee-learn/ai-for-education/blob/APEX-Phase-1/2.%20Measurements/images/temp_img1.png)
