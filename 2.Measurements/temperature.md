@@ -5,4 +5,4 @@ LLama-2 Model quantized at 4 bits
 
 ### Temperature per number of users comparing different thread configurations
 
-!(2.Measurements/images/temp_img1.png)
+![temperature 1](2.Measurements/images/temp_img1.png)
