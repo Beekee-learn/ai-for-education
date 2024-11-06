@@ -1,4 +1,4 @@
-Identification of Potential Tasks
+# Identification of Potential Tasks
 ---
 
 In the initial phase, our project explored a range of tasks suitable for the Raspberry Pi, encompassing various aspects of artificial intelligence and natural language processing. Among these, we considered:
@@ -21,6 +21,6 @@ In the initial phase, our project explored a range of tasks suitable for the Ras
 
 These tasks represent a wide array of AI application possibilities on compact devices, highlighting the potential of the Raspberry Pi in various contexts.
 
-# Focus on Text Generation
+## Focus on Text Generation
 
 We chose to focus on text generation, a task both versatile and suited to many contexts. It can be used to create automatic responses, summaries, translations, or even code from descriptions. This task also presents an interesting challenge in terms of computational resources, making it an excellent candidate to test performance.
