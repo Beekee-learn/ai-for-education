@@ -36,6 +36,9 @@ Lessons Learned
 Explore more
 =======
 - [1. Setup](/1.Setup)
--- [1. Setup](/1.Setup)
+    - [Tasks](/1.Setup/Tasks.md)
+    - [Models](/1.Setup/Models.md)
+    - [Metrics](/1.Setup/Metrics.md)
+    - [Methods](/1.Setup/Methods.md)
 - [2. Measurements] (/2.Measurements)
 - [3. Datasets] (3./Dataset)
