@@ -1,5 +1,4 @@
 # Identification of Potential Tasks
----
 
 In the initial phase, our project explored a range of tasks suitable for the Raspberry Pi, encompassing various aspects of artificial intelligence and natural language processing. Among these, we considered:
 
