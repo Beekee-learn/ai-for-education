@@ -1,7 +1,7 @@
 # Beekee & ai-for-education.org | APEX Project
 Beekee Learning By Doing projects as part of AI-for-Education.org [learn more](https://ai-for-education.org/lbd-beekee/)
 
-Watch the webinar 'Getting AI to Work Offline' [here](https://www.youtube.com/watch?v=NS7Odcer2M8)
+Watch the webinar 'Getting AI to Work Offline' [here](https://www.youtube.com/watch?v=NS7Odcer2M8) part of the Coffee Chats series ☕
 
 
 ## About the APEX Project
