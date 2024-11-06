@@ -1,7 +1,7 @@
 # Beekee & ai-for-education.org | APEX Project
 Beekee Learning By Doing projects as part of AI-for-Education.org
 
-##About the APEX Project
+## About the APEX Project
 **Assessing Performance and Educational eXperience with Lightweight AI in Low-Connectivity Settings (APEX)**
 Through the APEX project (Assessing Performance and Educational eXperience with Lightweight AI in Low-Connectivity Settings) Beekee studies the challenge of leveraging lightweight generative artificial intelligence applications for education, in areas with limited or no internet access using single-board computers like the Raspberry Pi. This R&D project has had success on the identification of a first adapted task for the available computing power (namely text generation), the end-users (up to two concurrent users), as well as the identification, implementation, and assessment of models based on general performance metrics (Temperature, CPU, and importantly Energy usage) as well as task timing metrics (model loading, input evaluation, response generation). Next steps will cover the identification and analysis of additional education-oriented tasks using low-cost hardware (e.g. computer vision tasks with TPUs), using Retrieval Augmented Generation (RAG), as well as fine-tuning for offline an LLM that integrates questions from Sierra Leone’s teachers with answers currently generated with ChatGPT3.5 generated answers (answers to be updated with ChatGPT 4).
 
