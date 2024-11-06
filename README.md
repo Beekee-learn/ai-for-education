@@ -32,3 +32,7 @@ Lessons Learned
     1.  A techno-centric solution to this problem consists of the use of Retrieval-Augmented Generation, which remains to be practically explored a further stage project (APEX Phase 2)
 
     2.  A human-centered solution, which could be used in conjunction with RAGs, lies in providing training for teachers and learners not only about prompting but also about the limitations of generative lightweight offline AI, and by extension general AI. The fact that these systems are limited in their capacities also provides an opportunity for developing critical thinking skills for learners, who should judge the answer from AI systems based on discipline-specific criteria.
+
+Explore more
+=======
+- [1. Setup](/1.Setup)
