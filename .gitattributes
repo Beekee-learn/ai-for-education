@@ -1,0 +1,5 @@
+.csv filter=lfs diff=lfs merge=lfs -text
+**/*.csv filter=lfs diff=lfs merge=lfs -text
+3.Dataset/SierraDataTo4oMini/original[[:space:]]data/sierra_db_3_5.csv filter=lfs diff=lfs merge=lfs -text
+3.Dataset/SierraDataTo4oMini/processed[[:space:]]data/sierra_db_3_5_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+3.Dataset/SierraDataTo4oMini/processed[[:space:]]data/sierra_db_4o_mini.csv filter=lfs diff=lfs merge=lfs -text
