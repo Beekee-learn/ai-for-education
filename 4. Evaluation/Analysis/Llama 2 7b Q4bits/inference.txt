@@ -1,0 +1,527 @@
+dev@beekeeai:~/Documents/beekee_ai $ source .venv/bin/activate
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 13
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [04:49<00:00, 28.98s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch14-10/versions/DPo7Lb2vXJcXNePYBl2T8RRqJd5KHsXXdsfpJMvt2vA
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 14
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:15<00:00, 49.51s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch15-10/versions/X0QOGbsC4tpZeKgc2fkvEtOMdMkmLfHRYzXjFZtcvno
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 15
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [09:21<00:00, 56.18s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch16-10/versions/EPBanqHSjNv4RWXY62cMDAxhNAqTMsymYtN3KWfQjTg
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 16
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [09:12<00:00, 55.20s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch17-10/versions/p4Ia2akxjY9uWdlc1XGk24PvS112LLx6hamOu4tDAro
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 17
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:51<00:00, 47.19s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch18-10/versions/pMZyEcDfZDFbxN3NtttfXpkBgfjNWWYCnYbfrMiXTzo
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 18
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:20<00:00, 50.04s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch19-10/versions/5mujpsbcVqA9D43SL3Yti2kHpgq3xE9vqHy0VKKWf4g
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 19
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:54<00:00, 47.46s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch20-10/versions/9MUqtd6B32R6ycfstXePgRns2Q7lUGiDDvMXn28CqOw
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 20
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:19<00:00, 49.98s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch21-10/versions/I9HXbXEEGUJmpe1VgRFR4zUleXigH3mRA78lgQAlqw4
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 21
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:49<00:00, 46.95s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch22-10/versions/IX5xBnVtjvRFX7XdoMrRyGrRX8YOgT4rXXyQLIJbzaQ
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ client_loop: ssh_packet_write_poll: Connection to 192.168.1.139 port 22: Host is down
+
+~ ⌚ 13:40:19
+$ ssh dev@beekeeai.unige.ch
+^C
+
+~ ⌚ 13:46:07
+$ ssh dev@beekeeai.unige.ch
+dev@beekeeai.unige.ch's password: 
+Linux beekeeai 6.6.51+rpt-rpi-2712 #1 SMP PREEMPT Debian 1:6.6.51-1+rpt3 (2024-10-08) aarch64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Thu Dec 12 11:48:14 2024
+dev@beekeeai:~ $ cd Documents/beekee_ai/
+dev@beekeeai:~/Documents/beekee_ai $ source .venv/bin/activate
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 22
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:50<00:00, 53.06s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch23-10/versions/qFJaIwN042ap3P34fJLHAU93FXJJVSXeUbmEioNbYfo
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 23
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:04<00:00, 42.45s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch24-10/versions/uEeIAGkJGEb6AHXR0FuiLyOYoEYyXjJB455XyyGYprA
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 24
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:46<00:00, 52.62s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch25-10/versions/YpXqTncqMX5QKXA41pP1PApcPWr9qZYKVUfj7XEPJrQ
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 25
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:41<00:00, 46.12s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch26-10/versions/Xsff8RPxjVbpIh8YedZntIKjOrwapZFSv5liUd0UDE0
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+^[[A(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 26
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:22<00:00, 50.28s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch27-10/versions/wKDRCsizHMHol58LUcT9V3bYZ3IImcukXFLtxRr0m8A
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 27
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:01<00:00, 48.14s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch28-10/versions/j7mIL7EkfozLi4y08qkj8pI4mb2AXYjH4BhgUXRKCtM
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 28
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:54<00:00, 47.47s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch29-10/versions/0nwzfJMeeMy4CrfMARGOtCrTcdDGXxVhWXqs1MgdL8g
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 29
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:27<00:00, 50.76s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch30-10/versions/M9ECNrhI2yjHEZ7ZY9YdbOjmnr7XK2Idf4WknyWQzx4
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 30
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:04<00:00, 42.50s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch31-10/versions/5tbyhYXAE9LYusYVoJh05RbW1pVQtcnsOSAXTo8Ij24
+^CException ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ nano evaluate.py 
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ python test.py 10 31
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:37<00:00, 45.73s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch32-10/versions/DAsm5IYWtDWzY1AUhnPAEPaGNWxS11wNBspQkxWWV74
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ for i in {32..100} do     # Run the Python script with arguments 10 and the current value of $i     python test.py 10 $i done
+> ^C
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ for i in {32..100}
+> do
+> python test.py 10 $i
+> done
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [09:29<00:00, 56.97s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch33-10/versions/7DlwwmksfuH6lpGQCmRXGevX2J7SASpAtvfxbfKiORw
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:31<00:00, 45.19s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch34-10/versions/gWfUqEEEHYJBFmK1OLzZjdYgXx0EhzSBP7ELM1fCTPc
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [09:38<00:00, 57.82s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch35-10/versions/pH1A0k1HGbkdVu0yRkTMNS0YsKh4HdMfUgDMUdLatMg
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:24<00:00, 44.40s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch36-10/versions/xSHSJPpN5frMJsLjorvYmVXy3mpOpvSG11H4kbY0eI8
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:06<00:00, 48.67s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch37-10/versions/VKrsw5IUkkfqyBw2cCYYB7arPFrlTvSxRiWppX7awes
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:43<00:00, 46.32s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch38-10/versions/ohHAVSa5igpSMYDZlo1hSCD1omwve2gONMgQsBQ32VM
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:44<00:00, 52.50s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch39-10/versions/Klm3MeMXbSAO4AagIxcSJiYtrznG3rPpqIMgTjBCil0
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:17<00:00, 43.79s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch40-10/versions/jDbv1d1FufXjUrDrDHfpkPfyHzK4J2hPPdokUmSdI3s
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:11<00:00, 43.15s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch41-10/versions/oBe4LUYhNwLa3Gdo5iEhm6OaS3BP5ykFCLA6CHwaEMk
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:12<00:00, 43.21s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch42-10/versions/r3XYzR3C1snLUAsEjdGyI6p2SX0hh0QAz1MNUOxgFUg
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:57<00:00, 47.71s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch43-10/versions/Gp9qa4TvsbnIagWoWW7zQO8C4rrX7MniAaHuyyxkVas
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:07<00:00, 42.75s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch44-10/versions/r7E7orVWuhrMTCr4LNXnhT4XNDLZLtk543Sl4NK90bs
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:20<00:00, 44.05s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch45-10/versions/zw0qMdzE8jdEYgo8jlrB71n0quYKoP7H4PVrxcRUxsM
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:03<00:00, 42.37s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch46-10/versions/gtCHfrAFS4ggxX3cEKkGOBuPjXO2dlsfXJX20Xf5JX0
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [06:06<00:00, 36.64s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch47-10/versions/OCfoeiicMafqYRFWgVSZlnn8YmnKJte9Xu4unBN9eWw
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:18<00:00, 49.88s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch48-10/versions/PvY2WihR6JyENYk2XFEYyABUHuJQ9b0FlhxX6O42Esc
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:52<00:00, 47.23s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch49-10/versions/nzzjVF19BE6X3PZdiBLQYMujSLbYaKmsZkxJKbmny68
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+ 70%|████████████████████████████████████████████████████████████████████████                               | 7/10 [03:31<01:02, 20.83s/it]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:36<00:00, 51.68s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch65-10/versions/zoY4URKGAf1uYX823TdB6WXYWtq574OWyOHGNy7Ai2s
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:01<00:00, 48.17s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch66-10/versions/YC21J4D23ydI1sYvcEFiedrGVGChqXGYDJcj86mOzK4
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [06:51<00:00, 41.11s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch67-10/versions/g0UgorH828tiYBiMIsrFYJa8pXgJ6rVYdliXRYAsNg8
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:28<00:00, 44.87s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch68-10/versions/73P3p0TnKn24VK4iG3psznBSDx3CN7M0uDl9x1Y3Uoo
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [06:39<00:00, 39.92s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch69-10/versions/2UISiAXsWh8yAYcFfVdLPZGNxCcBz68DRwYdJXFDlYM
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:11<00:00, 43.14s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch70-10/versions/FyfWm31rTeBAec2hgVmuoYwPJQnR1YGo4OkEJH21Tiw
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [06:52<00:00, 41.30s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch71-10/versions/7t5IhPaQfGsds9C5I2AUkUTkcuQ1cWq5qbvV8HNYH94
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:01<00:00, 48.18s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch72-10/versions/kwh25x3iIgnwlH1GRIVC9WLQhROi1W80EvXGhgJRE4U
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:40<00:00, 52.07s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch73-10/versions/CuUj5DRbYzOO4YA7XtCUUXze71IQ6zY4hGLDRO7EDzw
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:43<00:00, 52.38s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch74-10/versions/5Ku1mF86XDSpFYq7IXYiCYDcYwequhN2lUd3tPzeUE0
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:43<00:00, 52.34s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch75-10/versions/5LhTdoQ1Qph4oANMZZckajrhb4wTl9r6rEn4yOWexqw
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [06:38<00:00, 39.89s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch76-10/versions/eF5EhI7miv3lKNr2npnUhZiip0XP49ISxwcEcJ0gBRc
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:15<00:00, 49.55s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch77-10/versions/LiRGqWX7YbVJaNcvOa7ubbtatXaPuw4WUjEhfQLpTTQ
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:32<00:00, 45.25s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch78-10/versions/3BxswSHiL8JeI7trm136JP9jJSjlEUv4r1HIF0Otmbc
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [06:52<00:00, 41.25s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch79-10/versions/0lolKCYiqTOsoZaDv8tjiLe4X3M6SelTojP4KjqheLA
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:39<00:00, 51.94s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch80-10/versions/IM2cgRyI9XPoXXYjiIZpbYtmvrC7jy1exRClN1PN0rI
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:20<00:00, 50.02s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch81-10/versions/udglUWtLJjQXJiLRXIQb0QhgloyyCxMByZEdfQtJEfo
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:47<00:00, 52.71s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch82-10/versions/qBUCdmSNkCGFlYXHeJh5UlSLMUym71Iw4SqORHC1vWg
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [09:24<00:00, 56.48s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch83-10/versions/tBaPWD8ketPdodVAcU43kXq4Du2aXt4RdegznrbHzXw
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:24<00:00, 50.45s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch84-10/versions/SyIlX3cNG5hPyJhprNlTBmNFw3oZoQx3hYV1z7yXqQ4
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:41<00:00, 52.13s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch85-10/versions/PtXYn9ek00ikzurRjDeFcvX7YGPKVCUFJoLkFDCTqzo
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:20<00:00, 50.04s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch86-10/versions/4YuiGmWcYwz17vEvmGa8RO0YS0h0t9CpwDLYjbINq80
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [08:39<00:00, 51.94s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch87-10/versions/bhLTylcI3ZlXXmwPav1tVjO0qiTrnA3jIJaKMHsfJDA
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [07:27<00:00, 44.79s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch88-10/versions/VYzBwUGfpSSQxZXGEtZY8VcQ01Gh5KZUt9OrYqYLsBA
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [09:13<00:00, 55.37s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch89-10/versions/YCJaYic06Bd7XTvET6iOHYj2VAyWkv1SaCVy4ik472o
+weave version 0.51.24 is available!  To upgrade, please run:
+ $ pip install weave --upgrade
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [06:14<00:00, 37.46s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_2_7b_Q4_K_M-classic-raspberry_5-batch90-10/versions/1HGYaFbWGmr2aPjHfoQNYjWDlCb4iWd1bNJPC8yGSXU
+^C
+(.venv) dev@beekeeai:~/Documents/beekee_ai $ 

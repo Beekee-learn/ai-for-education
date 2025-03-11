@@ -1,0 +1,90 @@
+{
+    "all_results": [
+        {
+            "prompt": {
+                "general": 0.8912788497750821,
+                "factual_correctness": 0.8,
+                "semantic_similarity": 0.95639424887541,
+                "string_presence": 1.0
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.47532327052892753,
+                "factual_correctness": 0.57,
+                "semantic_similarity": 0.9516163526446378,
+                "string_presence": 0.0
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.4474616214387144,
+                "factual_correctness": 0.53,
+                "semantic_similarity": 0.9123081071935718,
+                "string_presence": 0.0
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.2727804848788976,
+                "factual_correctness": 0.18,
+                "semantic_similarity": 0.913902424394488,
+                "string_presence": 0.0
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.37497495557236704,
+                "factual_correctness": 0.37,
+                "semantic_similarity": 0.9498747778618353,
+                "string_presence": 0.0
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.322706606689632,
+                "factual_correctness": 0.27,
+                "semantic_similarity": 0.93853303344816,
+                "string_presence": 0.0
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.3304951475042876,
+                "factual_correctness": 0.29,
+                "semantic_similarity": 0.927475737521438,
+                "string_presence": 0.0
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.6254836895482598,
+                "factual_correctness": 0.88,
+                "semantic_similarity": 0.9274184477412994,
+                "string_presence": 0.0
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.7629944706336571,
+                "factual_correctness": 0.56,
+                "semantic_similarity": 0.914972353168285,
+                "string_presence": 1.0
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.8739940316059214,
+                "factual_correctness": 0.78,
+                "semantic_similarity": 0.919970158029607,
+                "string_presence": 1.0
+            }
+        }
+    ],
+    "average": {
+        "general_results": 0.5377493128175745,
+        "factual_correctness": 0.523,
+        "semantic_similarity": 0.9312465640878731,
+        "string_presence": 0.3
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "all_results": [
+        {
+            "prompt": {
+                "general": 0.0,
+                "faithfulness": 0.0
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.16666666666666666,
+                "faithfulness": 0.16666666666666666
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.14285714285714285,
+                "faithfulness": 0.14285714285714285
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.0,
+                "faithfulness": 0.0
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.0,
+                "faithfulness": 0.0
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.0,
+                "faithfulness": 0.0
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.25,
+                "faithfulness": 0.25
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.3333333333333333,
+                "faithfulness": 0.3333333333333333
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.14285714285714285,
+                "faithfulness": 0.14285714285714285
+            }
+        },
+        {
+            "prompt": {
+                "general": 0.0,
+                "faithfulness": 0.0
+            }
+        }
+    ],
+    "average": {
+        "general": 0.10357142857142856,
+        "faithfulness": 0.10357142857142856
+    }
+}

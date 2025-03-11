@@ -1,0 +1,338 @@
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████| 10/10 [10:27<00:00, 62.70s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch48-10/versions/DwoRQId9RiYDrtIeKKzkD8E3rU8FxhhJ7xAvVRwMtKU
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████| 10/10 [10:27<00:00, 62.79s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch49-10/versions/yUepqkAlUnWNDr6sC7X9svUWodsC8AsdYY6J8lAC3Vs
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████| 10/10 [09:54<00:00, 59.50s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch50-10/versions/RPsNBXbhvtDZt29eyR1SyExIgVYw919t1PCNpKfJI8w
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████| 10/10 [10:41<00:00, 64.20s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch51-10/versions/jvWNSA74GYnfM0SKtddOHF1zkYwhbALV0C37Om1Th6g
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████| 10/10 [10:16<00:00, 61.64s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch52-10/versions/QgMr8bLvPKZuJ3kOZhvrTVfFmyIIKZUdg01ZpIEfcXU
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████| 10/10 [10:53<00:00, 65.33s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch53-10/versions/tHDb1Y3C7o3B06EXm6OUUDYXbhwSWdIQRXVu8v610BU
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████| 10/10 [10:35<00:00, 63.59s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch54-10/versions/VNUQi0UBHDuhcX6HPNjXkTH0zXx2StS9d0VDfcueF0E
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████| 10/10 [10:22<00:00, 62.26s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch55-10/versions/HFXcXXjHoOti1pdKlZjVLCY27G78LYdV5PhBRov2wZY
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+ 30%|██████████████                                 | 3/10 [03:18<07:39, 65.64s/it]100%|██████████████████████████████████████████████| 10/10 [10:38<00:00, 63.84s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch56-10/versions/iJPF2lNRicXKRTso9GUYtSDH5ATcTIpekzMOZaKYsAU
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████| 10/10 [10:32<00:00, 63.23s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch57-10/versions/c0mMOygHD8nebOSXRkpm3tuxLaCB0p5X46YG1rnChpA
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████| 10/10 [10:48<00:00, 64.89s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch58-10/versions/k75xYNz2fFXJwrozcul79GtgxL5QoVOFLd704pdOBLU
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████| 10/10 [10:43<00:00, 64.30s/it]
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:41<00:00, 64.12s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch60-10/versions/TvaDCsdXP3HY2SVnbQVbTcGCP5tVwTJ1SRUM4SnrDF0
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:44<00:00, 64.43s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch61-10/versions/fyiaxrAIYoUHUU4rs9gyUxXGe3hL0fPrzxW5d7EmAMw
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+ 30%|██████████████████████████████▉                                                                        | 3/10 [03:14<07:38, 65.57s/ 40%|█████████████████████████████████████████▏                                                             | 4/10 [04:14<06:21, 63.55s/ 50%|███████████████████████████████████████████████████▌                                                   | 5/10 [05:16<05:13, 62.75s/ 60%|█████████████████████████████████████████████████████████████▊                                         | 6/10 [06:23<04:17, 64.36s/ 70%|████████████████████████████████████████████████████████████████████████                               | 7/10 [07:26<03:11, 63.87s/ 80%|██████████████████████████████████████████████████████████████████████████████████▍                    | 8/10 [08:30<02:07, 63.76s/ 90%|████████████████████████████████████████████████████████████████████████████████████████████▋          | 9/10 [09:34<01:04, 64.08s/100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:38<00:00, 63.79s/100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:38<00:00, 63.81s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch62-10/versions/F32JXkABymRGo7hcvzXXjzD8YltLaLkBu4DC0KJ4fjE
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:31<00:00, 63.14s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch63-10/versions/EAm4C70hHXWQIxEZ5sXVneqNzWkcl5A5ROiLn5K3JbE
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:25<00:00, 62.52s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch64-10/versions/5SFseCdpPtchKVcnZqYWrOw25CcwCQI57A41lg6w1sc
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:44<00:00, 64.48s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch65-10/versions/OIg5MrBzF52uX2Da525D5vOI9ZR50wnqV2URluwipLA
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:33<00:00, 63.35s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch66-10/versions/Jwo4q4fq2nqhsWQ2W9zpT8b00H5YzZGKa0GcgWFth5U
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:32<00:00, 63.24s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch67-10/versions/nirCZeJ12aUvkiarYYoYjYwymmxuQ1EZrA0356u5M2U
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:42<00:00, 64.24s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch68-10/versions/E8Rf8sJ18njBhZQD4Ynd3kSCsFsEl9FcRyxQa7meQCY
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:10<00:00, 61.08s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch69-10/versions/owedcIormc5xy9LFlETZ6kUPpX4zYUQNMCncBPLXiho
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:49<00:00, 64.97s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch70-10/versions/M7r8U6PIckNhwfxu57THeszyLl13Xv2Zdr7Jvx9QCxE
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:38<00:00, 63.86s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch71-10/versions/xG9UlIpgLqGvzGk6w8paijZgJtkHdvBQvVYAzX5KRUs
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:33<00:00, 63.36s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch72-10/versions/hyG31exsYxFssnfdj663zrwzPTALX3PQM2ukV2JsYg0
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:54<00:00, 65.49s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch73-10/versions/9QDdlo2DRN9u9MZ6dwgMVoslkKNeHRgJV0sH7Lkh5CI
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:30<00:00, 63.02s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch74-10/versions/lKkXjqSY8p2fiIdwYykSigw2dzwgXUnmmxDXlmqUkGs
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:34<00:00, 63.42s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch75-10/versions/WekWSM5Zu9aBXd8NfYjW2D4bpKbFU0AdULjO9BkLmU4
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:36<00:00, 63.62s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch76-10/versions/lCsEYBoeoG4dUVYBBZ1edZNVgvjAPUJyMOGS2VjMxqE
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [09:58<00:00, 59.86s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch77-10/versions/DXzmiDVJLHadfjSrFSbuccSvG4ThwGEWSojCSuvomDc
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:43<00:00, 64.33s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch78-10/versions/nzWdmSx9RA7N5xYA0OvKAYY4KKnx0dUxc45VCqtEvzA
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:44<00:00, 64.47s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch79-10/versions/Nxg724CAXB4IFYv3e98PaxKMxotIY836B5XVZZPu64s
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:37<00:00, 63.71s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch80-10/versions/8gfY27f51RCOO5v40GtEszWl5aPvXADgn0wyDQo1Osw
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:35<00:00, 63.52s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch81-10/versions/Gzz6vsH1g9OOirIOmU3iyypapynyneYHevO2XEXkZGY
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:49<00:00, 64.90s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch82-10/versions/Ju53GcSRHRFgsW5Hs7Rr2qkNDHUIPffxWXJstu9zq9o
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:45<00:00, 64.56s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch83-10/versions/ZRNN50ET5ecm9hLDDwNJ7hOPFpPSQCqa88AQuw6pcEs
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:42<00:00, 64.25s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch84-10/versions/dcfJzD476lDsGAVkGuwwB3nAKKKJXFnvz6fFDGLrBrY
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:17<00:00, 61.74s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch85-10/versions/a2sb04kBii1QeuMEzy6m3IGD7nL4OZoavBPgGAQQX7E
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:26<00:00, 62.69s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch86-10/versions/kaktcNFeB2DUUpomGonkVgwWvR74ZXXjgJ3UEtQsaYI
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:28<00:00, 62.88s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch87-10/versions/P17gMfADHJeWZr4ULDQjAAXTmmuYbsNm2D3FYwcY3fU
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:25<00:00, 62.54s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch88-10/versions/o96TuSSkYo9t2AeNbMTq8CHvQpWuv7MyZsHiojLGbl4
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:27<00:00, 62.72s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch89-10/versions/hYC9TXXMClwky6bfK4751otj1uEvoyBnzXVQ2JpVTXk
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:24<00:00, 62.41s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch90-10/versions/KcoALcabjqQygHiQefeIwjXavOTeB4PM5FMfEe3uYvw
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:15<00:00, 61.56s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch91-10/versions/dcTaWhDLnyZ7xM1eo0As3ZduJXPTITiyA2jWoGKKe7E
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:27<00:00, 62.78s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch92-10/versions/RS8qsXucXIkbThpSzjGdVwX6XY8O0VdA7Imentgk6I0
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:48<00:00, 64.83s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch93-10/versions/DRY5DIvZ1wLEVyqYkxnYRy4kdEKT3tq9nBL4PpqDYyo
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:28<00:00, 62.81s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch94-10/versions/vP4uxl9xqrWE3RXsQYDg3k7ddZqfHQY8pNEbIcY6R0s
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [09:37<00:00, 57.71s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch95-10/versions/ZUmeziMMcep1AKf5YqRMhqU4yogrXeB2HmdMdyKWwfA
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:38<00:00, 63.81s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch96-10/versions/nN50HNo702AeUIMM96UEngf2XmXs5GbxYLCFw40OZNY
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [11:09<00:00, 66.96s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch97-10/versions/SfQdiIJXTKueKxUrIKF6wuvjaiKop4ejAc7ElVtsopk
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:17<00:00, 61.74s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch98-10/versions/vxJQi1krXoc5chNxvbGED05uHYPR6A69qKRD6M2ZcKM
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:27<00:00, 62.74s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch99-10/versions/3rqnHFBXCzfhLMlp7TM1aKqbP6GffrRXeVL192MNhMM
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:56<00:00, 65.62s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch100-10/versions/Xt47U9YUNJedK3mciysstqkG7EUgXwPDjxrCDWcpdHc
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:50<00:00, 65.05s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch101-10/versions/XQKPppHik7nlmUfdDaw9lDngfy0d7r6SHzc79q2tAXI
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [11:03<00:00, 66.30s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch102-10/versions/Lgz1lLWMuFm7XY9gBmWL039EoSvw1vuul4MClFNVO8c
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:08<00:00, 60.90s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch103-10/versions/SqwmSwceoKDz1495ppg0RpIXVSBVYmjh1UBEXXXT1vw
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:29<00:00, 62.92s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch104-10/versions/XIAzSsFlgio05IWoKlnPoIeCSJFMOZqRePuKRQU0oNI
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:24<00:00, 62.49s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch105-10/versions/PY8Vv1Y8WPYNLoO6nFItPbXPYpgpA31ojCEapfblDq4
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:22<00:00, 62.24s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch106-10/versions/RVf7XlX9ju8XuIA9rQ3jeFtsT8QXd90f8dLuu71BCco
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:30<00:00, 63.06s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch107-10/versions/tpAde71WoY0YO8K0vDYL8hXiNHUvOueTmqARK4EPD6Y
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [10:34<00:00, 63.50s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch108-10/versions/gtQhaInTEfyhl8wYEYyISWL2kNgMOvQc8k75ixLhD6Y
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:33<00:00, 63.31s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch109-10/versions/xvOowiPB5MNn8jZcV4xJPDeN9M4bWZEVToI1qPSaQQ4
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:40<00:00, 64.05s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch110-10/versions/0AFkWwyoZ6gdEvFzYG1An0UnLqZXrRhBLoC1nKToYoU
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:16<00:00, 61.63s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch111-10/versions/VlQiaHXXc8E7vYmlNtbvBz4sKIlLd2qV0iNcqBu9Ooo
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:22<00:00, 62.20s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch112-10/versions/h0ULn99XvaKYjBtCHir3YPfF0etQlzRthxFFaBBXLsM
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:22<00:00, 62.20s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch113-10/versions/nYufKOpKSWXgbYQin5jMR287zDaD2s66waaK409QEGQ
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:38<00:00, 63.84s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch114-10/versions/gSTj1RLJogdUXuhCSfMOMMM2XQxaA4kvXWNqPdccoNs
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:24<00:00, 62.41s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch115-10/versions/XSkjOeukt9JaqXnWuVd1Gpm1Kz1baR5lEpE9narkGn4
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [09:54<00:00, 59.48s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch116-10/versions/VF4BtsWkYY9WlhF4oDEDTXbLpmeu6ucU9vkvKIPXzUs
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:28<00:00, 62.85s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch117-10/versions/n0ftkjDLbfYThrhrtTROqmxmQTZbT2kiaK8gMEeRM9o
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:19<00:00, 61.96s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch118-10/versions/TQYLOmKpXTdResQYlwTzXPp8OkHLqXQbUEmIHpJtKIg
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:24<00:00, 62.43s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch119-10/versions/i3tJEGPgjrbDd3l8wbYrCkZY2xOEDWrKFO07L3eiBhI
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [11:07<00:00, 66.73s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch120-10/versions/qSe0mrlKmXtr7hut3NWEGpojeGj3zzRTTM6CdtMTic0
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:44<00:00, 64.49s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch121-10/versions/LgzJwqMRkF8ZhGOUNXnCwMo7Yz0plpmikm6bCBCmF5A
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:49<00:00, 64.91s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch122-10/versions/I6vEbyVa3ATnMeHlfEoP8O2cPheaLUtRGyMhhCUBMVg
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:19<00:00, 61.92s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch123-10/versions/GiZjANIJV0j3GsDt4erA0YoSYDosoADbSMiN5TYu56M
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:29<00:00, 62.95s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch124-10/versions/wgVKXfYCiYNgvG50Nbz2QYvxKxZemk7qkQDFEqI0mzc
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:55<00:00, 65.53s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch125-10/versions/qqmSHmwaYH9Dr9xY1cBar02kkIdR63uheAOeDWqo0hk
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:34<00:00, 63.50s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch126-10/versions/wfR5w94tcjmWQUSdt6xTHrgHPluQSd6GlVNdGYrQhg8
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:59<00:00, 65.99s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch127-10/versions/IoQDDxufqJVD5lNbJSzOXpSPRQsPcBk4ItNttfsrUCA
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [09:50<00:00, 59.09s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch128-10/versions/QWTFcEMZodB82KBTzs0KHPKxr136ifD7efnPh0IYJrg
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:34<00:00, 63.49s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch129-10/versions/5PM4Rf8uqYDmKp8HGqb0rj9mUvMWqfHImBdhFocdvBk
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:32<00:00, 63.22s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch130-10/versions/3IWV4PbRIwtxViriXyiyNwmR5uTYxXSmsZmZKAZNeRU
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|████████████████████████████████████████████| 10/10 [10:39<00:00, 63.98s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch131-10/versions/2Vzr2oZdFRp9WeHvTz9GWIgz65ZsX9qI69QJvafKXts
+Logged in as Weights & Biases user: cem-turhan7.
+View Weave data at https://wandb.ai/beekee-ai/benchmark/weave
+100%|██████████████████████████████████████████████| 9/9 [09:22<00:00, 62.47s/it]
+📦 Published to https://wandb.ai/beekee-ai/benchmark/weave/objects/gsm8k-llama_cpp-llama_3_8b_Q4_K_M-classic-raspberry_5-batch132-10/versions/yvTKVVorMD3wNY1WzCynXVJvLXYh9VL5YxpRa50T0I0
