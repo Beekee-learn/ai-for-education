@@ -1,0 +1,2 @@
+sierra_db.csv filter=lfs diff=lfs merge=lfs -text
+sierra_db_4o_mini.csv filter=lfs diff=lfs merge=lfs -text
